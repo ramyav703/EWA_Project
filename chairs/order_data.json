@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "product_name": "Chair",
+    "price": "20.00",
+    "order_date": "2024-10-23T00:22:03.175870Z",
+    "customer_name": "John Doe",
+    "card_number": "123456789",
+    "shipping_address": "123 Main St, Anytown, CA 12345"
+}
